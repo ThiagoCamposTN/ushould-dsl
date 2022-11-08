@@ -2,6 +2,8 @@
 
 The goal of *uShould-DSL* is to write should expectations in the MicroPython implementation of Python as clear and readable as possible, using **"almost"** natural language (limited - sometimes - by the Python language and the MicroPython implementation constraints).
 
+This project is a port of [Should-DSL](https://github.com/nsi-iff/should-dsl).
+
 ## Documentation
 
 * [uShould-DSL Matchers](./docs/available_matchers.md) - Description and usage of all available matchers;
